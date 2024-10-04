@@ -1,4 +1,4 @@
-# 3년차 개발자 김상우입니다.
+# 주니어 개발자 김상우입니다.
 
 - [Nexus repo 업로드 프로그램](https://github.com/electronyoon/NexusComponentDeployer) - Java 기반의 경량 http 프로그램입니다. 폐쇄망으로 원하는 의존성을 옮기도록 돕습니다.
 - [네이버 광고 경매 프로그램](https://github.com/electronyoon/NaverAdAutoBiddingApp) - Node.js 기반의 매크로 프로그램입니다. AWS Fargate로 클라우드 배포했습니다.
